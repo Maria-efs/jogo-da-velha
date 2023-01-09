@@ -11,6 +11,8 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 10px;
+    text-align: center;
 }
 
 .players{
@@ -23,6 +25,10 @@ label{
     display: flex;
     align-items: center;
     gap: 5px;
+}
+
+input{
+    padding: 5px;
 }
 
 button{
